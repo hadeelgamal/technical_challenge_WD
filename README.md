@@ -2,6 +2,10 @@
 
   At The Phone Cave we are looking for someone to help us turn our cave store into a home, and to do so we present you this challenge.
 
+# How to Run
+Step 1: cd server then npm run dev
+Step 2: cd client then npm start
+
 ## The challenge (Duration: 3 hours)
 
 Your task consists of creating an app showing our catalog. Follow the steps detailed below to complete the task. **You have 3 hours to do so.**
